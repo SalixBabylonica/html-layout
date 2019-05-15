@@ -1,26 +1,23 @@
-body {
-    margin: 0;
-    background-color: teal;
-    width: 100%;
-    height: 100vh;
-  }
-  
-  .header {
-    width: 100%;
-    height: 20vh;
-    background-color:rosybrown;
-  }
-  
-  .main-content {
-    background-color: lavenderblush;
+.header{
+    background-color: rgb(62, 66, 70);
+    height: 200px;
+    width: 100%
+}
+.main-content {
+    background-color: #EFEFEF;
     margin: 0 auto;
     width: 75%;
     height: 70vh;
   }
-  
   .footer { 
-    background-color: rgb(1, 20, 71);
+    background-color: #222222;
     margin: 0 auto;
     width: 75%;
     height: 10vh;
-  }x
+  }
+  body {
+    margin: 0;
+    background-color: #D8D8D8;
+    width: 100%;
+    height: 100vh;
+  }
